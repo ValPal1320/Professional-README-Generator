@@ -1,41 +1,45 @@
-# Professional README Generator
 
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution](#contribute)
-* [Tests](#tests)
-* [Questions](#questions)
+  # Professional README Generator
 
-## Description
-For an elegant and detailed README file, this command line application will allow the user to construct a professional looking README file through an array of questions in their terminal. After answering all questions, it will generate the README file that they will be able to use in their repository.
+  [![None license](https://img.shields.io/badge/License-None-blue.svg)](undefined)
 
-You can view an instructional video HERE.
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution](#contribute)
+  * [Tests](#tests)
+  * [Licenses](#licenses)
+  * [Questions](#questions)
+  
+  ## Description
+  For an elegant and detailed README file, this command line application will allow the user to construct a professional looking README file through an array of questions in their terminal. After answering all questions, it will generate the README file that they will be able to use in their repository.
 
-## Installation
-Before using this application, be aware you will need the following softwares installed already:
-* VS Code
-* GitBash
-* Node.js
+  You can view an instructional video [HERE](https://drive.google.com/file/d/1OmBqFnAr55PFWfOnfiBCXiSOkUmkhURW/view).
 
-Step 1: To install, click on the green "Code" button to clone to your folder.
-Step 2: npm install inquirer
-Step 3: Open application folder in your terminal and type "node index.js"
+  ## Installation
+  Before using this application, be aware you will need the following softwares installed already: 
+  * VS Code 
+  * GitBash 
+  * Node.js 
+  
+  - To install, click on the green "Code" button to clone to your folder 
+  - npm install inquirer 
+  - Open application folder in your terminal and type "node index.js" 
 
-## Usage
-Once the index.js file is called, the user will be prompted with a series of questions. They must give a detailed response to each question. To go to the next question, simply use the "Enter" key from the keyboard. Once answering all questions, a new README file will be generated and readily
-available in the folder for use.
+  ## Usage
+  Once the index.js file is called, the user will be prompted with a series of questions. They must give a detailed response to each question. To go to the next question, simply use the "Enter" key from the keyboard. Once answering all questions, a new README file will be generated and readily available in the folder for use.
 
-## Contributing
-No other contributors at the moment. If you'd like to contribute, feel free to contact me.
+  Screenshot below for reference:
+  ![README Generator](./img/README-Generator-Screenshot.PNG)
+  
+  ## Contribution
+  No other contributors at the moment. If you'd like to contribute, feel free to contact me.
 
-## Tests
-No tests have been done for this application at the moment.
+  ## Tests
+  No tests have been done for this application at the moment.
 
-## Questions
-Have any questions? Please feel free to reach out!
-GitHub: https://github.com/ValPal1320
-Email: valgonzalez13@yahoo.com
-
-
+  ## Questions
+  Have any questions? Please feel free to reach out!  
+  GitHub: https://github.com/ValPal1320  
+  Email: valgonzalez13@yahoo.com
