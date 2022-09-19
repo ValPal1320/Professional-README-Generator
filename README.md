@@ -23,7 +23,8 @@
   * GitBash 
   * Node.js 
   
-  - To install, click on the green "Code" button to clone to your folder 
+  To install:
+  - Click on the green "Code" button to clone to your folder 
   - npm install inquirer 
   - Open application folder in your terminal and type "node index.js" 
 
@@ -32,7 +33,7 @@
 
   Screenshot below for reference:
   ![README Generator](./img/README-Generator-Screenshot.PNG)
-  
+
   ## Contribution
   No other contributors at the moment. If you'd like to contribute, feel free to contact me.
 
